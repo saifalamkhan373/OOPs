@@ -1,8 +1,5 @@
 <h1 align="center"> <br><img src="logo/logotype_horizontal.png?raw=true" alt="oop" width="256"> <br>
 
-# OOP
-
-[![Build Status](https://travis-ci.org/wojtekmach/oop.svg?branch=master)](https://travis-ci.org/wojtekmach/oop)
 In Java, Object-Oriented Programming (OOP) is a fundamental programming paradigm. It allows you to structure your code into classes and objects, promoting code reusability, modularity, and encapsulation. Let's go through the key OOP concepts in Java:
 
 1. Classes and Objects:
