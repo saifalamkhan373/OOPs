@@ -5,7 +5,7 @@ public class person {
         return name;
     }
 
-    public void setName(String newName) {
-        this.name = newName;
-    }
+//    public void setName(String newName) {
+//        this.name = newName;
+//    }
 }
