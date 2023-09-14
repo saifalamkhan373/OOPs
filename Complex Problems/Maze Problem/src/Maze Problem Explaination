@@ -1,0 +1,20 @@
+In this Java example:
+
+1- We represent the maze as a 2D array, where 0 represents an open path, and 1 represents a blocked path.
+
+2- We use a depth-first search (DFS) algorithm with a stack to explore possible paths through the maze.
+
+3- We start from the top-left corner of the maze and traverse through the maze while marking visited cells.
+
+4-If we reach the bottom-right corner of the maze, we have found a path.
+
+5- The isValid method checks if a given cell is within the bounds of the maze.
+
+In the main method, we create a MazeSolver object and call the solveMaze method to find a path through the maze.
+
+This code will either print "Path found!" if a path from the start to the goal exists or "No path found." if there is no valid path through the maze.
+
+
+
+
+
