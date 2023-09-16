@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/Complex Problems/Maze Problem/Maze Problem.iml" filepath="$PROJECT_DIR$/Complex Problems/Maze Problem/Maze Problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/OOPS in Java.iml" filepath="$PROJECT_DIR$/.idea/OOPS in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Complex Problems/Two Sum Problem/Two Sum Problem.iml" filepath="$PROJECT_DIR$/Complex Problems/Two Sum Problem/Two Sum Problem.iml" />
     </modules>
   </component>
 </project>
