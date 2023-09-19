@@ -30,3 +30,11 @@ In Java, Object-Oriented Programming (OOP) is a fundamental programming paradigm
    - Classes can be grouped into packages, which provide a way to organize and manage related classes and make them accessible or restricted as needed.
 
 These OOP concepts in Java provide a powerful and flexible way to structure and develop applications. By following OOP principles, you can write clean, maintainable, and scalable code in Java.
+7. SOLID PRINCIPLES: 
+   -The SOLID Principles are five principles of Object-Oriented class design. They are a set of rules and best practices to follow while designing a class structure.
+   These five principles help us understand the need for certain design patterns and software architecture in general. So I believe that it is a topic that every developer should learn.
+  -> The Single Responsibility Principle
+  -> The Open-Closed Principle
+  -> The Liskov Substitution Principle
+  -> The Interface Segregation Principle
+  -> The Dependency Inversion Principle
