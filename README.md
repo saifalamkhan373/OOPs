@@ -39,3 +39,5 @@ These OOP concepts in Java provide a powerful and flexible way to structure and 
   -> The Liskov Substitution Principle
   -> The Interface Segregation Principle
   -> The Dependency Inversion Principle
+
+7.1->  The Single Responsibility Principle: The idea behind the SRP is that every class, module, or function in a program should have one responsibility/purpose in a program. As a commonly used definition, "every class should have only one reason to change". The class above violates the single responsibility principle.
