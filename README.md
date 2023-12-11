@@ -41,3 +41,4 @@ These OOP concepts in Java provide a powerful and flexible way to structure and 
   -> The Dependency Inversion Principle
 
 7.1->  The Single Responsibility Principle: The idea behind the SRP is that every class, module, or function in a program should have one responsibility/purpose in a program. As a commonly used definition, "every class should have only one reason to change". The class above violates the single responsibility principle.
+Read more about this topic: https://www.freecodecamp.org/news/solid-principles-single-responsibility-principle-explained/#:~:text=The%20Single%20Responsibility%20Principle%20(SRP,only%20one%20reason%20to%20change%22.&text=The%20class%20above%20violates%20the%20single%20responsibility%20principle.
